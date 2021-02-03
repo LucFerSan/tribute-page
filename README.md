@@ -35,7 +35,7 @@ A simple and responsive tribute page, just for the sake of practicing basic html
 ## Usage
 
 <p float="left">
-  <img src=".github/front-page" width="390" />
+  <img src=".github/front-page.png" width="390" />
   <img src=".github/list.png" width="390" /> 
 </p>
 
