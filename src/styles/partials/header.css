@@ -1,0 +1,35 @@
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #661818;
+  width: 100%;
+  padding: 20px;
+  border-radius: 2rem;
+}
+
+header > * {
+  display: block;
+  margin: 0.4rem 0;
+}
+
+header h1 {
+  font-size: 4rem;
+  font-weight: 400;
+}
+
+header h2 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+header h3 {
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+header p {
+  max-width: 50rem;
+  font-size: 1.1rem;
+}
